@@ -7,5 +7,5 @@ target 'notes_frb' do
 
   # Pods for notes_frb
   pod 'Firebase/Core'
-
+  pod 'FirebaseUI'
 end
