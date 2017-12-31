@@ -15,6 +15,7 @@
 		9BEC5EC01FF9130100B748A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BEC5EBE1FF9130100B748A9 /* LaunchScreen.storyboard */; };
 		9BEC5EC81FF9291C00B748A9 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEC5EC71FF9291C00B748A9 /* AddViewController.swift */; };
 		9BEC5ECA1FF92EA300B748A9 /* CustomTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEC5EC91FF92EA300B748A9 /* CustomTextView.swift */; };
+		9BEC5ECC1FF935D400B748A9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9BEC5ECB1FF935D400B748A9 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9BEC5EC11FF9130100B748A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BEC5EC71FF9291C00B748A9 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		9BEC5EC91FF92EA300B748A9 /* CustomTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextView.swift; sourceTree = "<group>"; };
+		9BEC5ECB1FF935D400B748A9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				9BEC5EBE1FF9130100B748A9 /* LaunchScreen.storyboard */,
 				9BEC5EC11FF9130100B748A9 /* Info.plist */,
 				9BEC5EB91FF9130100B748A9 /* notes_frb.xcdatamodeld */,
+				9BEC5ECB1FF935D400B748A9 /* GoogleService-Info.plist */,
 			);
 			path = notes_frb;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BEC5EC01FF9130100B748A9 /* LaunchScreen.storyboard in Resources */,
+				9BEC5ECC1FF935D400B748A9 /* GoogleService-Info.plist in Resources */,
 				9BEC5EBD1FF9130100B748A9 /* Assets.xcassets in Resources */,
 				9BEC5EB81FF9130100B748A9 /* Main.storyboard in Resources */,
 			);
