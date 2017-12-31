@@ -9,13 +9,6 @@
 import UIKit
 
 class AddViewController: UIViewController {
-
-    
-    @IBAction func backButtonClicked(_ sender: Any) {
-        
-        
-        _ = self.navigationController?.popViewController(animated: true)
-    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
