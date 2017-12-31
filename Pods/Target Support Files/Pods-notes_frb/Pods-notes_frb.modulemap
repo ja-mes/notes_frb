@@ -1,0 +1,6 @@
+framework module Pods_notes_frb {
+  umbrella header "Pods-notes_frb-umbrella.h"
+
+  export *
+  module * { export * }
+}
